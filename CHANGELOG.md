@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+* remove double contributors file
 * fixed file permissions, thanks @merwok
 
 ## [1.0.0] - 2020-10-06
